@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-
-
-=======
 # Retail Store Layout Optimization and Route Simulation System
 
 ## Overview
@@ -210,4 +205,3 @@ Possible improvements include:
 - Developing a graphical UI for store layout editing
 
 - Extending the system for large-scale retail environments
->>>>>>> 9f3c4ddcb639f58e8105b0a090f6436e6a3926a8
