@@ -173,8 +173,12 @@ java example <input filename>
 ---
 ## Screenshots
 
-![alt text](image.png)
+Below are some screenshots of the results by the Task 7. 
+
+Below image shows a randomly created arrangement of stocks in a store(grid structure) and an arrangement of the store created by analyzing the purchase history(proposed store)
 ![alt text](image-1.png)
+
+Below image shows an output of the Task 7 in the console which displays values related to the efficiency calculation of the proposed store with respect to the related pairs of products.
 ![alt text](image-2.png)
 
 ## Potential Applications
