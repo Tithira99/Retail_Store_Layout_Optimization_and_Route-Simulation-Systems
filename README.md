@@ -1,14 +1,14 @@
-# Retail Store Layout Optimization and Route Simulation System
+# Retail Store Layout Optimization and Route Simulation Systems
 
 ## Overview
 
-This project presents a Java-based system for analyzing customer purchase behavior and improving retail store efficiency through optimized product placement and route simulation.
+This project presents a Java-based systems for analyzing customer purchase behavior and improving retail store efficiency through optimized product placement and route simulation developed in different tasks(1-7).
 
-The system models a retail store layout as a grid-based environment implemented through a Java interface and applies graph algorithms to analyze navigation efficiency and product placement.
+The system models a retail store layout as a grid-based environment and applies graph algorithms to analyze navigation efficiency and product placement.
 
-By analyzing frequently purchased product combinations and evaluating distances between product locations, the system can simulate customer routes and assess store layout efficiency.
+By analyzing frequently purchased product combinations the systen can access store layout effectively and evaluating distances between product locations, the system can simulate customer routes efficiently. 
 
-This project was developed as part of an undergraduate course project under the guidance of the course instructor.
+This project was developed as part of an undergraduate course under the guidance of the course instructor.
 
 ---
 
