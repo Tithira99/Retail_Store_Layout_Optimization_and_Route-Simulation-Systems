@@ -1,8 +1,8 @@
 # Retail Store Layout Optimization and Route Simulation Systems
 ## Project Information
-Development Period: April 2023 – August 2023  
-Course: Integreted Exercises 
-Type: Individually done Project at University of Aizu
+- Development Period: April 2023 – August 2023  
+- Course: Integreted Exercises 
+- Type: Individually done Project at University of Aizu
 
 ## Overview
 
